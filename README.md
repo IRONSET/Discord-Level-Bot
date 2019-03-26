@@ -5,7 +5,7 @@ Bot that mesures the time you were online.
 ## Requirements
 
 * [Python 3.6 or newer](https://www.python.org/downloads/)
-* discord.py library
+* [discord.py library](https://pypi.org/project/discord.py/)
 
 ### Installing
 
