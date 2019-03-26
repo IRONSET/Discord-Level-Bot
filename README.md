@@ -18,6 +18,7 @@ Bot that measures the time you were online.
 ```
 lvl1, lvl2, lvl3, ...
 ```
+* Every level should have a different color and all the roles on top of the level roles should have no color at all, otherwise the colors of the level won't be displayed correctly
 * Right click the STATICS.py file and edit with notepad
 * Fill in the bot Token, and all the required information
 * Run the bot by double-clicking Bot.py
