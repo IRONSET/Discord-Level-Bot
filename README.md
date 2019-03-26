@@ -1,6 +1,6 @@
 # Discord Level Bot
 
-Bot that mesures the time you were online.
+Bot that measures the time you were online.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ Bot that mesures the time you were online.
 * [Create and invite a bot to your server](https://discordpy.readthedocs.io/en/rewrite/discord.html)
 
 ### Setup
-* On the discord Server create the level Roles there should be 25 toal with the naming scheme lvl + the level number
+* On the discord Server create the level Roles there should be 25 total with the naming scheme lvl + the level number
 ```
 lvl1, lvl2, lvl3, ...
 ```
