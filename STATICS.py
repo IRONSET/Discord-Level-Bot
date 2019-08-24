@@ -1,8 +1,8 @@
 #When creating the bot on the discord developer site you can copy the token
-TOKEN = ''
+TOKEN = 'NjAzODI3Mjc4MDAyMTI2ODQ4.XWDitg.UZw9gHv6Q24lUoAEQVD99_Ml-lg'
 
 #Where the bot is saved ex: C:\Level Bot
-BOT_DIRECTORY = r''
+BOT_DIRECTORY = r'C:\Users\IRON_SET\Documents\GitHub\Discord-Level-Bot'
 
 SERVER_NAME = ''
 
